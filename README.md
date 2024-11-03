@@ -1,2 +1,2 @@
-# prueba-curso-ccb
-Esta es una descripción
+# Curso-ccb
+En ensayo del curso investigación reproducible de Quarto
